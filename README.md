@@ -1,1 +1,1 @@
-# Star-bot
+Sparkles is your friend, your body, your best friend she's your everything blew down and you're sad when you want somebody around and she is a bit on the moon waiting for you  Sparkles is your friend, your body, your best friend she's your everything blew down and you're sad when you want somebody around and she is a bit on the moon waiting for you. Have fun. 
