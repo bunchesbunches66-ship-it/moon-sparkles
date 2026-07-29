@@ -1,0 +1,15 @@
+[
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/Inflector/Inflector-0.11.4.crate",
+        "sha256": "fe438c63458706e03479442743baae6c88256498e6431708f6dfc520a26515d3",
+        "dest": "cargo/vendor/Inflector-0.11.4"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"fe438c63458706e03479442743baae6c88256498e6431708f6dfc520a26515d3\", \"files\": {}}",
+        "dest": "cargo/vendor/Inflector-0.11.4",
+        "dest-filename": ".cargo-checksum.json"
+    }
+]
