@@ -1,0 +1,7 @@
+Copy started for Newelle on branch the-big-moonhouse.
+
+I attempted to fetch the upstream repository (qwersyk/Newelle at commit 09de8b1) and encountered API limitations when trying to download large binary assets. To avoid partial or corrupt files, I’m leaving this marker and exact instructions so the full copy can be completed reliably (recommended) using the git subtree method locally.
+
+If you want me to continue copying files via the GitHub API, reply "continue via API" and I will iterate through the upstream tree and push files here — note this may take many minutes and may hit API/timeout limits.
+
+If you prefer the reliable, fast method, run the commands in INSTRUCTIONS.md locally (recommended).
