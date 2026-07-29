@@ -1,0 +1,10 @@
+Starting full copy via API: I will now begin copying text/binary files from qwersyk/Newelle@09de8b1 into third_party/Newelle in this branch.
+
+Plan:
+- Copy text/source files first.
+- Skip very large binary assets (images, mp4) to avoid API/time limits; I will list them in third_party/Newelle/SKIPPED_ASSETS.txt so you can add them manually or I can retry them separately.
+- Push files in batches and report progress in this file once each batch completes.
+
+This operation may take several minutes. I will update this file with progress entries as I finish batches.
+
+If you do NOT want me to skip binary assets, reply "include binaries" and I will attempt to include them (may hit rate/size limits).
